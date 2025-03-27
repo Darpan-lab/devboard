@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.info-display-box{
+    @apply rounded-xl bg-[rgb(244,247,255)] p-6
+}
+.boxflex{
+    @apply flex justify-between items-center
+}
