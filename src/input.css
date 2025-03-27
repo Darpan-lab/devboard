@@ -5,3 +5,6 @@
 .boxflex{
     @apply flex justify-between items-center
 }
+.disable-btn{
+    @apply bg-[#CED6FF]
+}
